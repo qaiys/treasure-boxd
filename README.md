@@ -9,6 +9,7 @@ Treasure-boxd is a tool that predicts movie preferences and provides film recomm
 
 **Employed packages**
 
-Scrapy, https://scrapy.org/
-numpy  
-scikit  
+Scrapy, https://scrapy.org/  
+numpy    
+scikit    
+matplotlib
